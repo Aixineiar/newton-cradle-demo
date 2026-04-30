@@ -4,9 +4,10 @@
 
 ## 在线预览
 
-直接在浏览器中打开 `newton-cradle.html` 即可运行，无需任何依赖或编译。
+- **GitHub Pages**：https://aixineiar.github.io/newton-cradle-demo/
+- 或直接在浏览器中打开 `newton-cradle.html`，无需任何依赖或编译
 
-你也可以通过 GitHub Pages 在线访问（如果已启用）。
+![预览截图](./screenshot.png)
 
 ## 功能特性
 
@@ -35,6 +36,7 @@
 ```
 .
 ├── newton-cradle.html   # 主程序（包含 HTML/CSS/JS）
+├── screenshot.png       # 预览截图
 └── README.md            # 项目说明
 ```
 
